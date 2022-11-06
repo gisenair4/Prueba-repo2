@@ -1,0 +1,24 @@
+h1 {
+    color : violet;
+    font-size: 30px;
+    border: 1px solid  black;
+    background-color: bisque;
+}
+#astro{
+    border: 2.5px solid black;
+}
+#section-images{
+    display:flex; 
+    justify-content: center;
+    background-color: aquamarine;
+}
+body header nav ul {
+    color: royalblue;
+    border: 2.5px solid black ;
+}
+.div-img2{
+    border: 2.5px solid red;
+}
+.div-img3{
+    border: 2.5px solid greenyellow;
+}
