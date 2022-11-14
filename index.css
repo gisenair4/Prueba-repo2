@@ -1,0 +1,29 @@
+*{
+    
+    width: 100%;
+    line-height: 1.5;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.footer_article{
+    background-color: blue;
+}
+
+.index-form{
+    color: blue;
+}
+
+.index-form{
+    font-family: "Comic Sans MS", sans-serif;
+    font-style: italic;
+    color: red;
+}
+
+.body{
+  background-image: url('/image/Consultas-Tecnicas-OnLine.png');
+  background-position: center; 
+  background-size: 10vw; 
+  background-repeat: no-repeat;
+}
